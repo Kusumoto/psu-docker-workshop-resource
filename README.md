@@ -2,7 +2,7 @@
 
 อบรมที่ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตภูเก็ต สาขาวิศวกรรมซอฟแวร์
 
-![](https://github.com/Kusumoto/psu-docker-workshop-resource/raw/master/background.png)
+![](https://github.com/Kusumoto/psu-docker-workshop-resource/raw/master/background.PNG)
 
 ## โดยเนื้อหาประกอบด้วย
 - Slide
