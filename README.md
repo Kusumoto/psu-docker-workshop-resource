@@ -2,7 +2,7 @@
 
 อบรมที่ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตภูเก็ต สาขาวิศวกรรมซอฟแวร์
 
-![](https://github.com/Kusumoto/psu-docker-workshop-resource/raw/master/background.PNG)
+![](https://github.com/Kusumoto/psu-docker-workshop-resource/raw/master/background.png)
 
 ## โดยเนื้อหาประกอบด้วย
 - Slide
@@ -29,9 +29,9 @@
 รวบรวมคำอธิบายและคำสั่งต่างๆใน Workshop ต่างๆ
 - ความเข้าใจใน docker เบื้องต้น
 - Basic Docker command
-- Basic write Dockerfile for build your project
 - Basic Docker Machine command
 - Basic write Docker Compose
 - Basic Docker Swarm
 - Docker Swarm large scale showcase
+- Basic write Dockerfile for build your project
 - CI/CD example
