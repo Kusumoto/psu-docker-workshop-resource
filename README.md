@@ -25,6 +25,9 @@
 - Python
 - Java
 
+## Slide
+https://www.slideshare.net/AzerdarTKusumoto/basic-docker-for-developer
+
 ## Workshop
 ชุด Workshop นี้ ประกอบไปด้วยการใข้งาน docker พื้นฐาน ที่สามารถนำไปประยุกต์และต่อยอดได้ โดยประกอบไปด้วย
 
